@@ -4,3 +4,4 @@ Bottle Exp is a Paper Plugin That Improves The Overall Minecraft Experience for 
 
 # **The Modrinth Looks Good Please check it out 😭🙏**
 Modrinth: https://modrinth.com/plugin/bottleexp-lightweight 
+*If the Link doesn't work then that means I got rejected sadly*
