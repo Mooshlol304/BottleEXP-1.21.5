@@ -1,0 +1,10 @@
+name: BottleEXP
+main: xyz.vp.moosh.bottleEXP.BottleEXP
+version: 1.0
+api-version: 1.21
+Author: "Moosh"
+commands:
+  bottle:
+    description: BottleEXP main command
+    aliases: [b]
+    usage: /<command>
